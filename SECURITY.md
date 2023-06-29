@@ -1,1 +1,1 @@
-Full disclosure rules apply. If you find a vulnerability, open an issue.
+Full disclosure applies. If you find a vulnerability, open an issue.
